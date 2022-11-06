@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binary Search Tree Projesi
 
 Proje 3
@@ -16,4 +17,3 @@ Proje 3
 
 root 7'dir. root'un sağından 8 bulunur. Solunda 5 bulunur.
 
-patika.dev ekibine teşekkürler.
