@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Binary Search Tree Projesi
 
 Proje 3
